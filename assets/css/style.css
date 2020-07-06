@@ -1322,11 +1322,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #3e067e;
+  color: 	#00008B;
   float: left;
   width: 44px;
   height: 44px;
-  border: 1px solid #3e067e;
+  border: 1px solid 	#00008B;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1350,7 +1350,7 @@ section {
 }
 
 .contact .info:hover i {
-  background: #3e067e;
+  background: 	#00008B;
   color: #fff;
 }
 
@@ -1389,7 +1389,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #3e067e;
+  background: 	#00008B;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1409,7 +1409,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #3e067e;
+  border: 3px solid 	#00008B;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1423,7 +1423,7 @@ section {
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #3e067e;
+  border-color: 	#00008B;
 }
 
 .contact .php-email-form input {
@@ -1435,7 +1435,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #3e067e;
+  background: 	#00008B;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1444,7 +1444,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #3e067e;
+  background: 	#00008B;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1496,7 +1496,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #3e067e !important;
+  background-color: 	#00008B !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -1581,7 +1581,7 @@ section {
 }
 
 .blog .entry .entry-title a:hover {
-  color: #3e067e;
+  color: 	#00008B;
 }
 
 .blog .entry .entry-meta {
@@ -1615,7 +1615,7 @@ section {
 }
 
 .blog .entry .entry-meta a:hover {
-  color: #3e067e;
+  color: 	#00008B;
 }
 
 .blog .entry .entry-content p {
@@ -1629,7 +1629,7 @@ section {
 
 .blog .entry .entry-content .read-more a {
   display: inline-block;
-  background: #3e067e;
+  background: 	#00008B;
   color: #fff;
   padding: 7px 25px;
   transition: 0.3s;
@@ -1638,7 +1638,7 @@ section {
 }
 
 .blog .entry .entry-content .read-more a:hover {
-  background: #3e067e;
+  background: 	#00008B;
 }
 
 .blog .entry .entry-content h3 {
@@ -1709,7 +1709,7 @@ section {
 }
 
 .blog .entry .entry-footer a:hover {
-  color: #3e067e;
+  color: 	#00008B;
 }
 
 .blog .entry .entry-footer .cats {
@@ -1814,7 +1814,7 @@ section {
 }
 
 .blog .blog-comments .comment h5 a:hover {
-  color: #3e067e;
+  color: 	#00008B;
 }
 
 .blog .blog-comments .comment h5 .reply {
@@ -1862,7 +1862,7 @@ section {
 
 .blog .blog-comments .reply-form input:focus {
   box-shadow: none;
-  border-color: #3e067e;
+  border-color: 	#00008B;
 }
 
 .blog .blog-comments .reply-form textarea {
@@ -1874,7 +1874,7 @@ section {
 
 .blog .blog-comments .reply-form textarea:focus {
   box-shadow: none;
-  border-color: #3e067e;
+  border-color: 	#00008B;
 }
 
 .blog .blog-comments .reply-form .form-group {
@@ -1885,11 +1885,11 @@ section {
   padding: 8px 20px;
   border: 0;
   border-radius: 4px;
-  background-color: #3e067e;
+  background-color: 	#00008B;
 }
 
 .blog .blog-comments .reply-form .btn-primary:hover {
-  background-color: #3e067e;
+  background-color: 	#00008B;
 }
 
 .blog .blog-pagination {
@@ -1919,8 +1919,8 @@ section {
 }
 
 .blog .blog-pagination li.active, .blog .blog-pagination li:hover {
-  background: #3e067e;
-  border: 1px solid #3e067e;
+  background: 	#00008B;
+  border: 1px solid 	#00008B;
   border-radius: 4px;
 }
 
@@ -1982,7 +1982,7 @@ section {
   font-size: 16px;
   padding: 0 15px;
   margin: -1px;
-  background: #3e067e;
+  background: 	#00008B;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
@@ -2074,8 +2074,8 @@ section {
 
 .blog .sidebar .tags ul a:hover {
   color: #fff;
-  border: 1px solid #3e067e;
-  background: #3e067e;
+  border: 1px solid 	#00008B;
+  background: 	#00008B;
 }
 
 .blog .sidebar .tags ul a span {
@@ -2141,7 +2141,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #3e067e;
+  color: 	#00008B;
   font-size: 18px;
   line-height: 1;
 }
@@ -2213,7 +2213,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #3e067e;
+  background: 	#00008B;
 }
 
 #footer .credits {

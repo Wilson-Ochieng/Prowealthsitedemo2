@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-social-links a {
-  color: 	#00008B;
+  color: 	#ffffff;
   padding-left: 6px;
   display: inline-block;
   line-height: 1px;
@@ -336,7 +336,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-social-links a:hover {
-  color: #5a6770;
+  color: #00008B;
 }
 
 @media (max-width: 768px) {
